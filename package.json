@@ -43,7 +43,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://<your-github-username>.github.io/itil-assessment",
+  "homepage": "https://PatrickWake.github.io/ITIL-CALC",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
