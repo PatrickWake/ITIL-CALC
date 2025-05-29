@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ITIL-CALC/static/css/main.3f399c2a.css",
+    "main.js": "/ITIL-CALC/static/js/main.1895929c.js",
+    "static/js/453.a1909550.chunk.js": "/ITIL-CALC/static/js/453.a1909550.chunk.js",
+    "index.html": "/ITIL-CALC/index.html",
+    "main.3f399c2a.css.map": "/ITIL-CALC/static/css/main.3f399c2a.css.map",
+    "main.1895929c.js.map": "/ITIL-CALC/static/js/main.1895929c.js.map",
+    "453.a1909550.chunk.js.map": "/ITIL-CALC/static/js/453.a1909550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f399c2a.css",
+    "static/js/main.1895929c.js"
+  ]
+}
